@@ -1,7 +1,7 @@
-# Storly — Grocery & Multi‑Vendor Ecommerce (React + TypeScript)
+# Shoply — Multi‑Vendor Ecommerce (React + TypeScript)
 
 A complete, installable **Vite + React + TypeScript + Tailwind CSS v4** ecommerce
-storefront, converted from the original Storly Tailwind/HTML/Alpine.js template
+storefront, converted from the original Shoply Tailwind/HTML/Alpine.js template
 and extended into a full customer experience: browsing, cart, checkout, and a
 real customer account dashboard with orders, reviews, and address management.
 
